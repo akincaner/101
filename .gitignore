@@ -1,0 +1,6 @@
+local.properties
+settings.gradle
+gradle.properties
+proguard-rules.pro
+gradle-wrapper.properties
+build.gradle
